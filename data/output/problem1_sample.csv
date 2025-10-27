@@ -1,0 +1,11 @@
+log_entry,log_level
+17/06/08 11:01:10 INFO storage.BlockManager: Found block rdd_51_10 locally,INFO
+17/06/10 15:14:57 INFO executor.Executor: Finished task 6.0 in stage 119.0 (TID 2386). 2194 bytes result sent to driver,INFO
+17/06/09 11:06:47 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 74427,INFO
+17/06/08 19:50:44 INFO executor.Executor: Finished task 14.0 in stage 5705.0 (TID 228255). 2076 bytes result sent to driver,INFO
+17/06/09 18:44:39 INFO storage.BlockManager: Removing RDD 3359,INFO
+17/06/08 11:28:53 INFO broadcast.TorrentBroadcast: Started reading broadcast variable 234,INFO
+"16/04/07 11:21:54 INFO storage.BlockManagerInfo: Added broadcast_296_piece0 in memory on mesos-slave-29:36797 (size: 28.6 KB, free: 27.8 GB)",INFO
+"17/06/07 15:30:47 INFO python.PythonRunner: Times: total = 38, boot = -56, init = 94, finish = 0",INFO
+17/06/09 20:49:18 INFO storage.BlockManager: Found block rdd_1910_20 locally,INFO
+17/06/09 19:25:13 INFO storage.BlockManager: Found block rdd_138_27 locally,INFO
